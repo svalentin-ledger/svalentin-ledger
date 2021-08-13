@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Valentin
+- 👀 Russian Language Manager for Ledger
+- 📫 Email: valentin.seyidov-ext@ledger.fr
